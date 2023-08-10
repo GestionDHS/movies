@@ -93,10 +93,6 @@
             "posterURL": "https://m.media-amazon.com/images/M/MV5BMjMxNzgwMDUyMl5BMl5BanBnXkFtZTgwMTQ0NTIyNDM@._V1_SX300.jpg"
         },
         {
-            "title": "Kind Hearts and Coronets",
-            "posterURL": "https://m.media-amazon.com/images/M/MV5BNjI5N2Y4YWEtYThmOC00ODA0LTlhMGYtNmE3MmVmNjNhYWQyXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX300.jpg"
-        },
-        {
             "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
             "posterURL": "https://m.media-amazon.com/images/M/MV5BZWI3ZTMxNjctMjdlNS00NmUwLWFiM2YtZDUyY2I3N2MxYTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
         }
@@ -113,14 +109,6 @@
         {
             "title": "Citizen Kane",
             "posterURL": "https://m.media-amazon.com/images/M/MV5BYjBiOTYxZWItMzdiZi00NjlkLWIzZTYtYmFhZjhiMTljOTdkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
-        },
-        {
-            "title": "Moonlight",
-            "posterURL": "https://m.media-amazon.com/images/M/MV5BNzQxNTIyODAxMV5BMl5BanBnXkFtZTgwNzQyMDA3OTE@._V1_SX300.jpg"
-        },
-        {
-            "title": "A Quiet Place",
-            "posterURL": "https://m.media-amazon.com/images/M/MV5BMjI0MDMzNTQ0M15BMl5BanBnXkFtZTgwMTM5NzM3NDM@._V1_SX300.jpg"
         },
         {
             "title": "Dunkirk",
@@ -193,20 +181,12 @@
             "posterURL": "https://m.media-amazon.com/images/M/MV5BNjE5MzYwMzYxMF5BMl5BanBnXkFtZTcwOTk4MTk0OQ@@._V1_SX300.jpg"
         },
         {
-            "title": "Alien",
-            "posterURL": "https://m.media-amazon.com/images/M/MV5BMmQ2MmU3NzktZjAxOC00ZDZhLTk4YzEtMDMyMzcxY2IwMDAyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
-        },
-        {
             "title": "War for the Planet of the Apes",
             "posterURL": "https://m.media-amazon.com/images/M/MV5BNDNmYTQzMDEtMmY0MS00OTNjLTk4MjItMDZhMzkzOGI3MzA0XkEyXkFqcGdeQXVyNjk5NDA3OTk@._V1_SX300.jpg"
         },
         {
             "title": "Star Trek",
             "posterURL": "https://m.media-amazon.com/images/M/MV5BMjE5NDQ5OTE4Ml5BMl5BanBnXkFtZTcwOTE3NDIzMw@@._V1_SX300.jpg"
-        },
-        {
-            "title": "Invasion of the Body Snatchers",
-            "posterURL": "https://m.media-amazon.com/images/M/MV5BYTExYjM3MDYtMzg4MC00MjU4LTljZjAtYzdlMTFmYTJmYTE4XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
         },
         {
             "title": "The Martian",
@@ -229,10 +209,6 @@
         {
             "title": "True Grit",
             "posterURL": "https://m.media-amazon.com/images/M/MV5BMjIxNjAzODQ0N15BMl5BanBnXkFtZTcwODY2MjMyNA@@._V1_SX300.jpg"
-        },
-        {
-            "title": "Unforgiven",
-            "posterURL": "https://m.media-amazon.com/images/M/MV5BODM3YWY4NmQtN2Y3Ni00OTg0LWFhZGQtZWE3ZWY4MTJlOWU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg"
         }
     ]
 }
